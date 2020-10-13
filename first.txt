@@ -2,6 +2,6 @@ This is first change
 
 
 
-
+changes done in main branch for merge commit via smart git
 
 This change is different from the one in dev branch
