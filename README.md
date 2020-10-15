@@ -18,4 +18,7 @@
 git add .
 git commit -m "for markdown explaination" 
 ```
-This is built by [Fayyaz ahmad] (https://www.bizztechs.com).
+This is built by https://www.bizztechs.com
+
+[ ] this is unchecked
+[x] THis is checked
