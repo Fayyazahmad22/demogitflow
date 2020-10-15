@@ -1,3 +1,3 @@
 # demogitflow
-Repor for explanation of git flow
+## Repor for explanation of git flow
 ###### Smallest heading
