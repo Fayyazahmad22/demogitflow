@@ -20,5 +20,5 @@ git commit -m "for markdown explaination"
 ```
 This is built by https://www.bizztechs.com
 
-[ ] this is unchecked
-[x] THis is checked
+- [ ] This is unchecked
+- [x] This is checked
