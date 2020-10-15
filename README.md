@@ -10,4 +10,11 @@
 
 ~~this is strikethroug~~
 
+> This is Quoted text
 
+'git status' is a command to check that status of commits
+
+'''
+git add .
+git commit -m "for markdown explaination 
+'''
